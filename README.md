@@ -1,22 +1,20 @@
-# Almace Scaffolding
+# Hydejack Starter Kit
 
-[![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](https://sparanoid.com/lab/amsf/)
-[![GitHub Actions](https://github.com/sparanoid/almace-scaffolding/workflows/CI%20Test/badge.svg?branch=master)](https://github.com/sparanoid/almace-scaffolding/actions)
-[![CircleCI](https://circleci.com/gh/sparanoid/almace-scaffolding.svg?style=svg)](https://circleci.com/gh/sparanoid/almace-scaffolding)
-[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/sparanoid/amsf)
+A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
-`AMSF`, a.k.a. **Almace Scaffolding**, a super-fast Jekyll framework fighting against the website obesity. It supports LiveReload, Sass, HTML minification, inlined stylesheets and more.
+## Quick Start
+### Running locally
+1. Clone repository (git users), or [download] and unzip.
+2. Open terminal, `cd` into root directory (where `_config.yml` is located)
+3. Run `bundle install` [^1]
+4. Run `bundle exec jekyll serve`
+5. Open <http://localhost:4000/hydejack-starter-kit/>
 
------
+## What's next?
+* Open files and read the comments
+* Read the [docs](https://hydejack.com/docs/)
+* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-## [Getting Started](https://sparanoid.com/lab/amsf/getting-started.html)
+[^1]: Requires Bundler. Install with `gem install bundler`.
 
-## Donate
-
-Wanna buy me a cup of coffee? [Great](https://sparanoid.com/donate/).
-
-## Licenses
-
-All files and directories are licensed under the [MIT](https://opensource.org/licenses/mit-license.php) unless explicitly stated.
-
-© Sparanoid, Inc.
+[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
