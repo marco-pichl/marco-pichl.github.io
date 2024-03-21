@@ -11,6 +11,8 @@ redirect_from:
 
 # About
 
+### Passionately navigating the digital realm since 1992.  
+
 <!--author-->
 
 ## Hydejack
