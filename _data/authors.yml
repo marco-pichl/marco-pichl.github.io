@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:   
-    |## Passionately navigating the digital realm since 1992.        |
+    |\#\# Passionately navigating the digital realm since 1992.        
     I possess expertise in consulting, analytics, business development and web design.
     My interests lie in data, clean aesthetics, minimalism and  unique typography.
     **Recently**, I completed my studies as a **Data Scientist**, specializing in data engineering, machine learning, and Generative AI.
